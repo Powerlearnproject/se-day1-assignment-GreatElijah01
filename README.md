@@ -28,12 +28,44 @@ Identify and describe at least three key milestones in the evolution of software
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
-
+1. Planning
+   This initial phase involves determining the scope and purpose of the software project. It includes feasibility studies, cost estimation, and defining the project’s objectives and timelines. The goal is to ensure that the project is viable and aligns with the organization’s goals.
+2. Requirements Analysis
+   In this phase, detailed requirements are gathered and documented. This involves understanding what the software needs to do (functional requirements) and how it should perform (non-functional requirements). Stakeholders, including end-users, are consulted to ensure that all needs are captured accurately.
+3. Design
+   Based on the requirements, the software's architecture and design are created in this phase. It includes defining the overall system architecture, software components, interfaces, and data structures. The design phase produces specifications that guide developers during implementation.
+4. Implementation (Coding)
+ During the implementation phase, developers write the actual code based on the design documents. This phase involves selecting appropriate programming languages, tools, and frameworks, and writing, compiling, and debugging code to create the software product.
+5. Testing
+   This phase involves verifying that the software works as intended. It includes various levels of testing, such as unit testing, integration testing, system testing, and acceptance testing. The goal is to identify and fix defects to ensure the software meets all requirements and performs reliably.
+6. Deployment
+   Once the software has been tested and is considered ready, it is deployed to a production environment where end-users can access and use it. This phase may include installation, configuration, and user training, as well as the distribution of user manuals and support documentation.
+7. Maintenance
+   After deployment, the software enters the maintenance phase, where it is monitored for any issues or bugs that need fixing. This phase involves making necessary updates, enhancements, and optimizations to improve performance, add new features, and ensure the software continues to meet user needs over time.
+   
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+Software Developer
+Roles and Responsibilities:
+
+Design and Development: Create software applications by writing, testing, and debugging code according to the requirements. This includes developing new features, maintaining existing code, and fixing bugs. Collaborate with other developers and architects to design software solutions that are efficient, scalable, and maintainable.
+
+Quality Assurance (QA) Engineer
+Roles and Responsibilities:
+
+Testing: Design and execute test cases and test plans to ensure the software meets quality standards and functions as intended. This includes manual testing, automated testing, and performance testing.
+Bug Identification: Identify, document, and track bugs and issues in the software, and work with developers to ensure they are resolved.
+Quality Standards: Develop and enforce quality assurance processes and standards within the team to maintain high-quality software delivery
+
+Project Manager
+Roles and Responsibilities:
+
+Project Planning: Define project scope, objectives, and deliverables. Develop detailed project plans, timelines, and resource allocation to ensure the project is completed on time and within budget.
+Team Coordination: Coordinate and manage the activities of the software development team, ensuring everyone understands their roles and responsibilities and is working towards the same goals.
+Risk Management: Identify potential risks and issues that could impact the project, develop mitigation strategies, and take proactive measures to prevent or address them.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
