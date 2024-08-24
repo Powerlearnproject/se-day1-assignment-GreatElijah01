@@ -45,6 +45,25 @@ List and briefly explain the phases of the Software Development Life Cycle.
    
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+Waterfall Methodology
+Characteristics:
+
+Sequential Phases: Waterfall is a linear and sequential approach. It typically involves stages like requirements analysis, design, implementation, testing, deployment, and maintenance.
+Fixed Requirements: Requirements are defined upfront and are expected to remain unchanged throughout the project.
+Documentation: Emphasis is placed on comprehensive documentation at each stage.
+
+Agile Methodology
+Characteristics:
+
+Iterative Development: Agile is iterative and incremental. It involves repeating cycles (sprints) of planning, development, and testing.
+Flexible Requirements: Requirements can evolve based on feedback and changing needs throughout the project.
+Collaboration: Emphasizes continuous collaboration between team members and stakeholders.
+Customer Feedback: Frequent delivery of small, working pieces of the project allows for regular customer feedback and adjustments.
+
+Examples:
+Waterfall Example: Developing a large-scale banking system with well-defined regulatory requirements might benefit from the Waterfall approach due to its structured nature and clear documentation requirements.
+
+Agile Example: Developing a new mobile app with frequent feature changes and user feedback would be more suited to Agile, as it allows for ongoing adjustments and improvements based on user interactions.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
@@ -133,6 +152,7 @@ Acceptance Testing:
  Tests the system from the end-user’s perspective to ensure it meets their needs and requirements.
  
 Importance: Validates that the system is ready for production and fulfills user requirements and business needs. It typically involves user feedback and is crucial for ensuring user satisfaction
+
  
 #Part 2: Introduction to AI and Prompt Engineering
 
@@ -156,3 +176,9 @@ Mitigating Bias and Ensuring Ethical Use: Well-crafted prompts can help mitigate
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Vague Prompt: "Tell me about technology."
+
+Improved Prompt: "Can you explain how artificial intelligence is used in healthcare?"
+
+Explanation: The improved prompt is more effective because it specifies the area of technology (artificial intelligence) and its application (healthcare). This focus helps in providing a relevant and detailed response, rather than a broad and potentially unfocused one.
